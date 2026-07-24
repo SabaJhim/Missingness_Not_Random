@@ -1,0 +1,2 @@
+1. Verify the theorem numerically 
+2. Read the LASER-VFL code
